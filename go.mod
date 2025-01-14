@@ -1,4 +1,4 @@
-module proto-exchange
+module github.com/peesqq/proto-exchange
 
 go 1.23.2
 
